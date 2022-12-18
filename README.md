@@ -1,4 +1,4 @@
-# neurolab-hadoop-spark
+# Spark-tut
 
 ![image](https://user-images.githubusercontent.com/18670428/67162188-a78a2c00-f359-11e9-86d3-37fdd4cf3db3.png)
 
